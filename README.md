@@ -1,5 +1,5 @@
 # comanda-digital
-Projeto de um sistema de gerenciamento de pedidos e delivery para gestão de um restaurante, onde pode ser criado um pedido, acessar o cardapio separo por categorias, gerenciamento de pedidos novos, em preparo ou pronto para entrega, gerenciamento de motoboys e atribuição a entrega, sistema de CEP integrado, para o motoboy é possivel receber um pedido para realizar a entrega e o cliente poder monitorar o status em tempo real do seu pedido.
+Projeto de um sistema de gerenciamento de pedidos e delivery para gestão de um restaurante, onde pode ser criado um pedido, acessar o cardapio separado por categorias, gerenciamento de pedidos novos, em preparo ou pronto para entrega, gerenciamento de motoboys e atribuição a entrega, sistema de CEP integrado, para o motoboy é possivel receber um pedido para realizar a entrega e o cliente poder monitorar o status em tempo real do seu pedido.
 (este projeto foi desenvolvido para fins academicos, qualquer falha, feedback ou dúvidas pode estar entrando em contato através do e-mail: vitorschneiker@gmail.com)
 
 O sistema de comanda digital foi desenvolvido utilizando arquitetura Angular, contendo: HTML, CSS, TS, JAVA.
